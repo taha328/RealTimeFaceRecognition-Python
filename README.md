@@ -15,7 +15,6 @@
   
   2. Crate two empty folders named 'dataset' and 'trainer' in the above folder.
   
-  <img src="folder.png" width="400">
   
   3. Run the first code, enter number '1' (for first person), then computer will take your face pictures and save into 'dataset' folder.
   When finish taking pictures, "[INFO] Exiting Program and cleanup stuff" pops up.
@@ -29,4 +28,3 @@
   ## 6. enjoy!
   ### hahahaha
   
-  <img src="xie yuan and his friend.png" width="400">
