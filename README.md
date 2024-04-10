@@ -24,7 +24,5 @@
   4. Run the second code, just wait several seconds to train the model.
   
   5. Run the third code, it will open your camera and start real time face recognition.
-  
-  ## 6. enjoy!
-  ### hahahaha
+
   
